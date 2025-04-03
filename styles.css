@@ -162,7 +162,6 @@ nav .right a span {
     margin-bottom: 100px;
     min-height: 85vh;
     padding-top: 100px;
-    /* border: 2px solid red; */
 }
 
 .about_me_section h2 {
@@ -186,7 +185,6 @@ nav .right a span {
     margin-top: 10px;
     text-align: justify;
     text-indent: 40px;
-    /* border: 2px solid blue; */
 }
 
 /* SECTION4: CONTACT */
@@ -195,7 +193,6 @@ nav .right a span {
     margin-bottom: 100px;
     min-height: 85vh;
     padding-top: 100px;
-    border: 2px solid black;
 }
 
 .contact_section h2 {
@@ -363,7 +360,6 @@ nav .right a span {
         font-weight: 400;
         font-size: 20px;
         gap: 10px;
-        /* border: 2px solid black; */
     }
 
     .about_me_section h2 {
@@ -399,7 +395,6 @@ nav .right a span {
     }
 
     .hero_section .photo {
-        /* border: 2px solid black; */
         align-items: center;
     }
 
@@ -449,15 +444,8 @@ nav .right a span {
     }
 
     .hero_section .photo {
-        /* border: 2px solid black; */
         align-items: center;
     }
-
-    /* .hero_section .photo img{
-        width: 250px;
-        height: 290px;
-        border-radius: 50%;
-    } */
     .skills_section {
         padding-left: 50px;
         padding-right: 50px;
@@ -531,7 +519,6 @@ nav .right a span {
     }
 
     .hero_section .photo {
-        /* border: 2px solid black; */
         align-items: center;
     }
 
@@ -600,7 +587,6 @@ nav .right a span {
 
     .hero_section .text {
         padding: 0 20px;
-        /* border: 2px solid black; */
     }
 
     .hero_section .text h2 {
@@ -608,7 +594,6 @@ nav .right a span {
     }
 
     .hero_section .photo {
-        /* border: 2px solid black; */
         align-items: center;
     }
 
